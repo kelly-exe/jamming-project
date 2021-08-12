@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/jamming-project/static/css/main.9574aeac.chunk.css",
-    "main.js": "/jamming-project/static/js/main.426177a0.chunk.js",
-    "main.js.map": "/jamming-project/static/js/main.426177a0.chunk.js.map",
+    "main.css": "/jamming-project/static/css/main.839a422a.chunk.css",
+    "main.js": "/jamming-project/static/js/main.b8efdee3.chunk.js",
+    "main.js.map": "/jamming-project/static/js/main.b8efdee3.chunk.js.map",
     "runtime-main.js": "/jamming-project/static/js/runtime-main.6f8c0753.js",
     "runtime-main.js.map": "/jamming-project/static/js/runtime-main.6f8c0753.js.map",
     "static/js/2.2346acb6.chunk.js": "/jamming-project/static/js/2.2346acb6.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.45b7d680.chunk.js": "/jamming-project/static/js/3.45b7d680.chunk.js",
     "static/js/3.45b7d680.chunk.js.map": "/jamming-project/static/js/3.45b7d680.chunk.js.map",
     "index.html": "/jamming-project/index.html",
-    "static/css/main.9574aeac.chunk.css.map": "/jamming-project/static/css/main.9574aeac.chunk.css.map",
+    "static/css/main.839a422a.chunk.css.map": "/jamming-project/static/css/main.839a422a.chunk.css.map",
     "static/js/2.2346acb6.chunk.js.LICENSE.txt": "/jamming-project/static/js/2.2346acb6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/jamming-project/static/media/background_photo_desktop.a0687f3f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6f8c0753.js",
     "static/js/2.2346acb6.chunk.js",
-    "static/css/main.9574aeac.chunk.css",
-    "static/js/main.426177a0.chunk.js"
+    "static/css/main.839a422a.chunk.css",
+    "static/js/main.b8efdee3.chunk.js"
   ]
 }
